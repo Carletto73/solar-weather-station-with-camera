@@ -14,6 +14,16 @@ Below you can see the Google Sheet with the measurements Humidity (C), Temperatu
 
 ![image](https://user-images.githubusercontent.com/72757865/147977680-31c19947-8cc9-486a-91c6-b599369c019a.png)
 
+Typing Config you will receive this message
 
+![image](https://user-images.githubusercontent.com/72757865/147978557-f0dc6943-f4bd-4035-9306-db55203cf19e.png)
 
+Typing Data you will receive this message
 
+![image](https://user-images.githubusercontent.com/72757865/147978681-11b1bf65-95cb-485b-8748-520526575db7.png)
+
+Typing Command (or any casual text) you will receive this message
+
+![image](https://user-images.githubusercontent.com/72757865/147978752-f2d53d11-79c4-4cbb-bb59-946446dd4a4c.png)
+
+Every month you will receive a message in the Telegram channel to remember the presence of the device
