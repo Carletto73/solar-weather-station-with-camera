@@ -10,7 +10,7 @@ Every day at 15:00 PM for example the device post a picture of my garden
 
 ![image](https://user-images.githubusercontent.com/72757865/147977302-bd003a35-e68e-44ea-ab63-dec66b7d0fce.png)
 
-Below you can see the Google Sheet with the measurements
+Below you can see the Google Sheet with the measurements Humidity (C), Temperature (D), Voltage battery (E)
 
 ![image](https://user-images.githubusercontent.com/72757865/147977680-31c19947-8cc9-486a-91c6-b599369c019a.png)
 
